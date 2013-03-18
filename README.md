@@ -1,7 +1,7 @@
-arduino-Sim900_EEPROM
+Sim900_EEPROM
 =====================
 
-arduino-Sim900_EEPROM is an Arduino library for storing the [Sim900](https://github.com/nigelb/Sim900) connection (CONN) struct in the Arduino's EEPROM 
+Sim900_EEPROM is an Arduino library for storing the [Sim900](https://github.com/nigelb/Sim900) connection (CONN) struct in the Arduino's EEPROM 
 
 Example usage:
 ```cxx
