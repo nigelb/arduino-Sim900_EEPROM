@@ -1,8 +1,8 @@
 /*
-  arduino-Sim900_EEPROM is an Arduino library for storing the
+  Sim900_EEPROM is an Arduino library for storing the
   Sim900 (https://github.com/nigelb/Sim900) connection
   (CONN) struct in the Arduino's EEPROM
-  Copyright (C) 2012  NigelB
+  Copyright (C) 2013  NigelB
 
   This program is free software; you can redistribute it and/or
   modify it under the terms of the GNU General Public License
